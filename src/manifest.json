@@ -1,8 +1,8 @@
 {"name": "Calc",
  "short_name": "Calc",
  "start_url": "/",
- "background_color": "#6dcdb1",
- "theme_color": "#009578",
+ "background_color": "#000000",
+ "theme_color": "#ffcc00",
  "display": "standalone",
  "icons": [
  {
